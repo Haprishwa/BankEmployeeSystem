@@ -11,6 +11,7 @@ public class InputUtil {
     }
 
     public static double getDouble(String prompt) {
+        // My second commit
         System.out.print(prompt);
         return scanner.nextDouble();
     }
