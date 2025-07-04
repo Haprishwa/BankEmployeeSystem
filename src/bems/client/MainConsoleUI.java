@@ -5,6 +5,7 @@ import bems.service.*;
 import bems.utility.InputUtil;
 
 //Comment by Yashashawi
+//Another comment for testing
 
 public class MainConsoleUI {
     public static void main(String[] args) {
